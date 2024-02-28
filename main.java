@@ -9,6 +9,12 @@ class main
     }
 
 
+    public static int division(int add)
+    {
+        int x=add/2;
+        return x;
+    }
+
 
     public static void  main(String[] args)
     {
